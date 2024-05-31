@@ -1,0 +1,3 @@
+Laura|50 x Lapiz, 1 x tenis|810000.0
+Laura|20 x tenis, 100 x lapiz|16020000.0
+fabian|20 x tenis, 10 x camisa|16800000.0
